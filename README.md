@@ -1,0 +1,3 @@
+# LittleProject
+Enjoy your life...
+Dalam repositori ini berisi berbagai macam project kecil yang bisa mempermudah hidup.
